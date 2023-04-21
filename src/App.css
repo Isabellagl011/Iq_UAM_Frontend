@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App-bar {
+  width: 100%;
+  height: 67px; /* Altura deseada para el Navbar */
+  position: fixed;
+  background-color: #0069a3;
+}
+.Body-Image {
+}
